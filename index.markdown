@@ -5,4 +5,6 @@
 layout: home
 ---
 
+![logo](assets/logo.png)
+
 Welcome. More content coming soon.
